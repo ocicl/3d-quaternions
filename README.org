@@ -4,6 +4,6 @@ A utility library implementing quaternion and dual-quaternion functionality.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/shinmera/3d-quaternions.git |
-| commit  | e69e5fa                                            |
+| commit  | 2bf98a5                                            |
 | systems | 3d-quaternions                                     |
 |---------+----------------------------------------------------|
