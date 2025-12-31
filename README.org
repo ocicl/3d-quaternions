@@ -3,7 +3,7 @@
 A utility library implementing quaternion and dual-quaternion functionality.
 
 |---------+----------------------------------------------------|
-| source  | git:https://github.com/shinmera/3d-quaternions.git |
-| commit  | d2cf235                                            |
-| systems | 3d-quaternions                                     |
+| source  | git:https://codeberg.org/shinmera/3d-quaternions.git |
+| commit  | 225cb40                                            |
+| systems | 3d-quaternions-test 3d-quaternions                 |
 |---------+----------------------------------------------------|
