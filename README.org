@@ -7,3 +7,4 @@ A utility library implementing quaternion and dual-quaternion functionality.
 | commit  | 225cb40                                            |
 | systems | 3d-quaternions-test 3d-quaternions                 |
 |---------+----------------------------------------------------|
+ 
